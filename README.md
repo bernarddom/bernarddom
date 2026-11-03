@@ -25,7 +25,7 @@ I code with:
 </p>
 
 ### 🔭 I’m currently working on...
-A [![ job seeker app](https://img.shields.io/static/v1?label=&message=browser-hot-reloading&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/bernarddom/Workie) to learn more about
+A [![ job seeker app](https://img.shields.io/static/v1?label=&message=job-seeker-app&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/bernarddom/Workie) to learn more about
 <p>
   <img alt="Spring Boot" src="https://img.shields.io/badge/springboot-fffffff?style=flat-square&logo=springboot&logoColor=black" />
 </p>
